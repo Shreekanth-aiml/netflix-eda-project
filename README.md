@@ -4,7 +4,8 @@ AI & ML Internship — Pluto Academy
 
 ## Dataset
 
-[Name + Kaggle link — fill in once chosen]
+Netflix Movies & TV Shows Dataset
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Objective
 
